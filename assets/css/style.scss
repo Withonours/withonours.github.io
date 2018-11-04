@@ -11,13 +11,17 @@ h4 {
  color: green;
 
 }
-.actionCall {
- margin-top: -0.8em;
-}
 ul {
  @extend p;
  font-family: inherit;
  li {
   padding-left: 0.4em;
  }
+}
+a.button {
+ width: 12em;
+ font-size: 1.5em;
+}
+.actionCall {
+margin-top: -0.8em;
 }
