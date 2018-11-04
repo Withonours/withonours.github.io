@@ -13,5 +13,6 @@ h4 {
  margin-top: -0.75em;
 }
 ul {
+ @extend p;
  font-family: inherit;
 }
