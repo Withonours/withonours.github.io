@@ -3,12 +3,12 @@
 ## More than just a company we're a support network.
 
 ### We all have special talents.  
-Withonor for individuals is the team of people who will help and guide you **in person**, to get better positions where your talent can shine.  
+Withonor for individuals is the team who will help and guide you **in person**, insider people with access to the best positions where your talent can shine.  
 We'll be celebrating your new job sooner than you think. After that, the first meeting of Pro service is free. Don't worry, other people pay us to get you a job.  
 <div class='clearfix actionCall'><a href='http://registro.withonor.com' class='button'>:beer: So let's have a drink.</a></div>  
 
 ### We're all in this together.  
-Withonor for businesses is your HR ally in a world of rivalry. We provide assistance to **build** effective teams. The future doesn't wait, we can go as fast as you.  
+Withonor for businesses is your HR ally in a world of rivalry. We **build** effective teams and provide assistance restructuring organizations. The future doesn't wait, we can go as fast as you.  
 We'll have fun winning this and many races, just go for it.  
 <div class='clearfix actionCall'><a href='http://socios.withonor.com' class='button'>:v: Let's get in touch.</a></div>  
 
