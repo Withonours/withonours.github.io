@@ -18,8 +18,8 @@ Plus, we make our resources available for members: contacts, expertise, lawyers,
 <div class='clearfix actionCall'><a href='http://principal.withonor.com' class='button' style='color: orange; border-color: orange'>:pizza: Let's grab lunch.</a></div>  
 
 #### This is an MVP launching site.
--  Make extra effort. There's a limited amount of people we can service and you can be part of this **now** or wheNever you decide to stop wasting time.  
+-  Make extra effort. There's a limited amount of clients we can serve, you can be part of this now or _wheNever_ you decide to stop wasting time.  
 -  We can save you from the plagues crawling inside your company, those who won't hesitate to take over command and kick you out, you've heard of them: silence, mediocrity and many others.  
--  It's worth noting that we take an 'open kimono' approach to doing business, extraordinary success will come swifter for those who understand what it means and adjust their ways.  
+-  It's worth noting that we take an 'open kimono' approach to doing business, **extraordinary** success will come swifter for those who understand what it means and adjust their ways.  
 
 :fire: Be proud of your decisions, bring it on and hire Withonor **today**.  
