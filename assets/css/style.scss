@@ -5,12 +5,16 @@
 
 h3, h4 {
  margin-top: 1.6em;
- margin-bottom: 0.4em;
- font-size: 1.25rem;
+ margin-bottom: 0.1em;
+ font-size: 1.3em;
 }
 h4 {
  color: green;
 
+}
+p {
+ font-size: 113%;
+ text-align: justify;
 }
 ul {
  @extend p;
@@ -19,20 +23,24 @@ ul {
   padding-left: 0.4em;
  }
 }
+.actionCall {
+ margin-top: -0.8em;
+}
 a.button {
- width: 13rem;
- font-size: 1.1rem;
  text-align: center;
  color: orange;
  border-color: orange;
 }
-.actionCall {
- margin-top: -0.8em;
+@media all and (min-width: 551px) {
+ #main_content > .actionCall > a.button {
+  width: 13em;
+  font-size: 1.1em;
+ }
 }
-
-@media (min-width: 001px) and (max-width: 550px) {
- a.button {
-  width: 15rem;
-  font-size: 1.3rem;
+@media all and (min-width: 001px) and (max-width: 550px) {
+ #main_content > .actionCall > a.button {
+  width: 24em;
+  font-size: 2em;
+  line-height: 1.5;
  }
 }
