@@ -15,7 +15,7 @@ We'll have fun winning this and many races, just go for it.
 ### We all have PROtential.  
 Withonor for professionals is the missing element in your work circles. We **listen**, investigate and deliver frank insight and advice for your career choices.  
 Plus, we make our resources available for members: contacts, expertise, lawyers, knowledge; take a desk, borrow the projector, use the silly printer, whatever reasonable thing you may need. Take a deep breath and a leap of faith, I'll make sure you land safe.  
-<div class='clearfix actionCall'><a href='http://principal.withonor.com' class='button' style='color: orange; border-color: orange'>:stew: Let's grab lunch.</a></div>  
+<div class='clearfix actionCall'><a href='http://principal.withonor.com' class='button' style='color: orange; border-color: orange'>:pizza: Let's grab lunch.</a></div>  
 
 #### This is an MVP launching site.
 -  Make extra effort. There's a limited amount of people we can service and you can be part of this **now** or wheNever you decide to stop wasting time.  
