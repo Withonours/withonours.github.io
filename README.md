@@ -22,4 +22,4 @@ Plus, we make our resources available for members: contacts, expertise, lawyers,
 -  We can save you from the plagues crawling inside your company, those who won't hesitate to take over command and kick you out, you've heard of them: silence, mediocrity and many others.  
 -  It's worth noting that we take an 'open kimono' approach to doing business, extraordinary success will come swifter for those who understand what it means and adjust their ways.  
 
-:fire: Be proud of your decisions, bring it on and hire me **today**.  
+:fire: Be proud of your decisions, bring it on and hire Withonor **today**.  
