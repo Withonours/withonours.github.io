@@ -31,6 +31,10 @@ a.button {
  color: orange;
  border-color: orange;
 }
+#main_content > h1 {
+ display: none;
+}
+
 @media all and (min-width: 551px) {
  #main_content > .actionCall > a.button {
   width: 13em;
