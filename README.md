@@ -1,6 +1,6 @@
 # Withonor
 
-## More than just a company we're a support network.
+## More than just an enterprise we're access to a support network; the company that keeps you company.
 
 ### We all have special talents.  
 Withonor for individuals is the team who will help and guide you **in person**, insider people with access to the best positions where your talent can shine.  
@@ -19,7 +19,7 @@ Plus, we make our resources available for members: contacts, expertise, lawyers,
 
 #### This is an MVP launching site.
 -  Make extra effort. There's a limited amount of clients we can serve, you can be part of this now or _wheNever_ you decide to stop wasting time.  
--  We can save you from the plagues crawling inside your company, those who won't hesitate to take over command and kick you out, you've heard of them: silence, mediocrity and many others.  
+-  We can save you from the plagues crawling inside your company, those who won't hesitate to take over command and kick you out, you've heard of them: silence, mediocrity and many _others_.  
 -  It's worth noting that we take an 'open kimono' approach to doing business, **extraordinary** success will come swifter for those who understand what it means and adjust their ways.  
 
 :fire: Be proud of your decisions, bring it on and hire Withonor **today**.  
