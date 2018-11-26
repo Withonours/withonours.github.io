@@ -1,4 +1,4 @@
 theme: jekyll-theme-tactile
 plugins:
 - jemoji
-favicon: /assets/favicon/
+favicon: /assets/favicon/favicon.ico
