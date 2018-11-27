@@ -34,6 +34,12 @@ a.button {
 #main_content > h1 {
  display: none;
 }
+#langSwitch {
+ text-align: right;
+}
+#langSwitch > a {
+ color: currentColor;
+}
 
 @media all and (min-width: 551px) {
  #main_content > .actionCall > a.button {
