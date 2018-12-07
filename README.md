@@ -1,6 +1,7 @@
 # Withonor
 
-<p id='langSwitch'>Abrir <a href='https://spanish.withonor.com'>versión en Español :scroll:</a></p>  
+<p id='altContext'>Abrir <a class='langSwitch' href='https://spanish.withonor.com'>versión en Español :page_facing_up:</a><br />  
+Or flip through <a class='blogSwitchExt' href='https://blog.withonor.com' target='_blank'>our blog :scroll:</a></p>  
 
 ## More than just an enterprise we're access to a support network; the company that keeps you company.  
 
